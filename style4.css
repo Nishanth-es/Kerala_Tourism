@@ -1,0 +1,93 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-image: url(https://media.istockphoto.com/id/1137754111/photo/waterfall-in-the-western-ghats-india.jpg?s=2048x2048&w=is&k=20&c=x9r2pVYJy4KMiIjw6W0Q8spzw7C95bNWSuieIoZv8Kg=);
+    background-repeat: no-repeat;
+    background-size: 1513px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+ h1{
+    background: linear-gradient(to bottom, #99ffcc 0%, #66ffff 100%);
+    text-align: center;
+    font-family: Copperplate Gothic;
+ }
+ .topnav a.split {
+  float: right;
+  background-color: red;
+  color: white;
+}
+.topnav a.help {
+  float: right;
+  background-color: red;
+  color: white;
+}
+.topnav a.insta
+{
+  float: right;
+}
+.topnav a.face
+{
+  float: right;
+}
+
+.tvm
+{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.tem
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    scroll-behavior: smooth;
+}
+p{
+    margin-top: 5%;
+}
+.center {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .tvm1
+{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.container
+{
+
+  color: white;
+}
+
